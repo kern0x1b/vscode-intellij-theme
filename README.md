@@ -8,17 +8,17 @@ Dark and Light themes for Visual Studio Code inspired by IntelliJ IDEA Islands c
 
 A modern dark theme with carefully selected colors for comfortable coding sessions.
 
-| Java | XML |
-|------|-----|
-| ![Dark Java](images/dark_java.png) | ![Dark XML](images/dark_xml.png) |
+![Dark Java](images/dark_java.png)
+
+![Dark XML](images/dark_xml.png)
 
 ### IntelliJ IDEA Islands Light
 
 A clean light theme with optimal contrast and readability.
 
-| Java | XML |
-|------|-----|
-| ![Light Java](images/light_java.png) | ![Light XML](images/light_xml.png) |
+![Light Java](images/light_java.png)
+
+![Light XML](images/light_xml.png)
 
 ## Features
 
