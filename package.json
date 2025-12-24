@@ -1,0 +1,51 @@
+{
+  "name": "vscode-intellij-theme",
+  "displayName": "IntelliJ IDEA Islands Theme",
+  "description": "Dark and Light themes for Visual Studio Code inspired by IntelliJ IDEA Islands.",
+  "version": "1.0.0",
+  "publisher": "oleksandr-havrysh",
+  "author": {
+    "name": "Oleksandr Havrysh",
+    "email": "kesha1511@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/a-havrysh/vscode-intellij-theme"
+  },
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "intellij",
+    "idea",
+    "dark",
+    "light",
+    "java",
+    "kotlin",
+    "color"
+  ],
+  "icon": "icon.png",
+  "contributes": {
+    "themes": [
+      {
+        "label": "IntelliJ IDEA Islands Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/intellij-islandrs-dark-theme.json"
+      },
+      {
+        "label": "IntelliJ IDEA Islands Light",
+        "uiTheme": "vs",
+        "path": "./themes/intellij-islandrs-light-theme.json"
+      }
+    ]
+  },
+  "bugs": {
+    "url": "https://github.com/a-havrysh/vscode-intellij-theme/issues"
+  },
+  "homepage": "https://github.com/a-havrysh/vscode-intellij-theme#readme",
+  "license": "MIT"
+}
