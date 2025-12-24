@@ -1,34 +1,23 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
   <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+    <linearGradient id="sky" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" style="stop-color:#FC801D"/>
-      <stop offset="50%" style="stop-color:#FE2857"/>
+      <stop offset="35%" style="stop-color:#FE2857"/>
+      <stop offset="70%" style="stop-color:#9758FF"/>
       <stop offset="100%" style="stop-color:#087CFA"/>
     </linearGradient>
+    <clipPath id="rounded">
+      <rect width="128" height="128" rx="24"/>
+    </clipPath>
   </defs>
 
-  <!-- Background -->
-  <rect width="128" height="128" rx="24" fill="url(#bg)"/>
+  <!-- Background gradient -->
+  <rect width="128" height="128" rx="24" fill="url(#sky)"/>
 
-  <!-- Color palette swatches - representing theme colors -->
-  <g>
-    <!-- Top row - light theme colors -->
-    <rect x="20" y="24" width="24" height="24" rx="4" fill="#FFFFFF"/>
-    <rect x="52" y="24" width="24" height="24" rx="4" fill="#E1EAFF"/>
-    <rect x="84" y="24" width="24" height="24" rx="4" fill="#D5E1FF"/>
-
-    <!-- Bottom row - dark theme colors -->
-    <rect x="20" y="56" width="24" height="24" rx="4" fill="#191A1C"/>
-    <rect x="52" y="56" width="24" height="24" rx="4" fill="#25324D"/>
-    <rect x="84" y="56" width="24" height="24" rx="4" fill="#2E436E"/>
+  <!-- Island with clipping to respect rounded corners -->
+  <g clip-path="url(#rounded)">
+    <path d="M0 128 L0 85 Q20 75 40 80 Q64 70 88 80 Q108 75 128 85 L128 128 Z" fill="#1A1B1E"/>
+    <path d="M0 128 L0 90 Q20 82 40 86 Q64 76 88 86 Q108 82 128 90 L128 128 Z" fill="#25324D"/>
+    <path d="M0 128 L0 95 Q20 88 40 92 Q64 84 88 92 Q108 88 128 95 L128 128 Z" fill="#3D5A80"/>
   </g>
-
-  <!-- Code bracket symbol at bottom -->
-  <g fill="none" stroke="#fff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M38 92 L26 102 L38 112"/>
-    <path d="M90 92 L102 102 L90 112"/>
-  </g>
-
-  <!-- Slash between brackets -->
-  <line x1="56" y1="114" x2="72" y2="90" stroke="#fff" stroke-width="5" stroke-linecap="round"/>
 </svg>
