@@ -3389,7 +3389,7 @@
     "activityBarBadge.foreground": "#191a1c",
     "activityBarBadge.background": "#BCBEC4",
     "activityBar.border": "#00000000",
-    "activityBar.activeBackground": "#191a1c",
+    "activityBar.activeBackground": "#2e436e33",
     "sideBar.background": "#191a1c",
     "sideBar.foreground": "#BCBEC4",
     "sideBarSectionHeader.background": "#00000000",
@@ -3539,9 +3539,9 @@
     "breadcrumb.activeSelectionForeground": "#DFE1E5",
     "tab.activeForeground": "#d1d3da",
     "tab.border": "#00000000",
-    "tab.activeBackground": "#25324d",
+    "tab.activeBackground": "#2e436e33",
     "tab.activeBorder": "#00000000",
-    "tab.activeBorderTop": "#00000000",
+    "tab.activeBorderTop": "#2e436e",
     "tab.inactiveBackground": "#191a1c",
     "tab.inactiveForeground": "#aaacb2",
     "progressBar.background": "#BCBEC4",
@@ -3616,6 +3616,8 @@
     "settings.headerForeground": "#CCCCCC",
     "settings.focusedRowBackground": "#FFFFFF07",
     "walkThrough.embeddedEditorBackground": "#00000050",
-    "editorGutter.commentRangeForeground": "#BCBEC4"
+    "editorGutter.commentRangeForeground": "#BCBEC4",
+    "tree.indentGuidesStroke": "#4E5157",
+    "tree.inactiveIndentGuidesStroke": "#4E5157"
   }
 }

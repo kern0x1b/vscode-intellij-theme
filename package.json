@@ -2,7 +2,7 @@
   "name": "vscode-intellij-theme",
   "displayName": "IntelliJ IDEA Islands Theme",
   "description": "Dark and Light themes for Visual Studio Code inspired by IntelliJ IDEA Islands.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "OleksandrHavrysh",
   "author": {
     "name": "Oleksandr Havrysh",
