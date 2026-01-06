@@ -20,6 +20,14 @@ A clean light theme with optimal contrast and readability.
 
 ![Light XML](images/light_xml.png)
 
+### IntelliJ IDEA Classic Dark
+
+A classic dark theme with traditional IntelliJ IDEA styling.
+
+![Classic Java](images/classic_java.png)
+
+![Classic XML](images/classic_xml.png)
+
 ## Features
 
 - Authentic IntelliJ IDEA Islands color palette
@@ -41,7 +49,7 @@ A clean light theme with optimal contrast and readability.
 3. Click **Install**
 4. Open Command Palette (`Ctrl+Shift+P` / `Cmd+Shift+P`)
 5. Select `Preferences: Color Theme`
-6. Choose **IntelliJ IDEA Islands Dark** or **IntelliJ IDEA Islands Light**
+6. Choose **IntelliJ IDEA Islands Dark**, **IntelliJ IDEA Islands Light**, or **IntelliJ IDEA Classic Dark**
 
 ### Manual Installation
 
