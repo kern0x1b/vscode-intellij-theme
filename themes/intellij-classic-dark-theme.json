@@ -3506,7 +3506,7 @@
     "diffEditor.border": "#191a1c",
     "panel.background": "#25282a",
     "panel.border": "#191a1c",
-    "panelTitle.activeBorder": "#191a1c",
+    "panelTitle.activeBorder": "#BCBEC4",
     "panelTitle.activeForeground": "#CCCCCC",
     "panelTitle.inactiveForeground": "#E7E7E799",
     "panelSection.border": "#191a1c",
@@ -3549,6 +3549,10 @@
     "editorWidget.foreground": "#BCBEC4",
     "editorWidget.background": "#25282a",
     "editorWidget.resizeBorder": "#191a1c",
+    "editorWidget.border": "#191a1c",
+    "quickInput.background": "#25282a",
+    "quickInput.foreground": "#BCBEC4",
+    "quickInputTitle.background": "#25282a",
     "pickerGroup.border": "#191a1c",
     "pickerGroup.foreground": "#3794FF",
     "debugToolBar.background": "#25282a",
@@ -3603,7 +3607,7 @@
     "icon.foreground": "#CCCCCC",
     "checkbox.background": "#2B2D30",
     "checkbox.foreground": "#BCBEC4",
-    "checkbox.border": "#191a1c",
+    "checkbox.border": "#00000000",
     "dropdown.background": "#2B2D30",
     "dropdown.foreground": "#BCBEC4",
     "dropdown.border": "#191a1c",
@@ -3617,7 +3621,7 @@
     "settings.focusedRowBackground": "#FFFFFF07",
     "walkThrough.embeddedEditorBackground": "#00000050",
     "editorGutter.commentRangeForeground": "#BCBEC4",
-    "tree.indentGuidesStroke": "#4E5157",
-    "tree.inactiveIndentGuidesStroke": "#4E5157"
+    "tree.indentGuidesStroke": "#191a1c",
+    "tree.inactiveIndentGuidesStroke": "#191a1c"
   }
 }
