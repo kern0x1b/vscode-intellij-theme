@@ -78,13 +78,13 @@ For the best experience, add these settings to your `settings.json`:
 ## Contributing
 
 Contributions, issues, and feature requests are welcome!
-Feel free to [open an issue](https://github.com/a-havrysh/vscode-intellij-theme/issues) or submit a pull request.
+Feel free to [open an issue](https://github.com/kern0x1b/vscode-intellij-theme/issues) or submit a pull request.
 
 ## Author
 
-**Oleksandr Havrysh**
+**kern0x1b**
 
-- GitHub: [@a-havrysh](https://github.com/a-havrysh)
+- GitHub: [@kern0x1b](https://github.com/kern0x1b)
 
 ## License
 
