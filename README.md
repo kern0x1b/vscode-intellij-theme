@@ -1,5 +1,8 @@
 # IntelliJ IDEA Islands Theme for VS Code
 
+[![VS Code Marketplace](https://img.shields.io/visual-studio-marketplace/v/OleksandrHavrysh.vscode-intellij-theme?label=VS%20Code%20Marketplace)](https://marketplace.visualstudio.com/items?itemName=OleksandrHavrysh.vscode-intellij-theme)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE.md)
+
 Dark and Light themes for Visual Studio Code inspired by IntelliJ IDEA Islands color scheme.
 
 ## Screenshots
@@ -77,8 +80,11 @@ For the best experience, add these settings to your `settings.json`:
 
 ## Contributing
 
-Contributions, issues, and feature requests are welcome!
-Feel free to [open an issue](https://github.com/kern0x1b/vscode-intellij-theme/issues) or submit a pull request.
+Contributions, issues, and feature requests are welcome! See
+[CONTRIBUTING.md](CONTRIBUTING.md), or just
+[open an issue](https://github.com/kern0x1b/vscode-intellij-theme/issues).
+
+See [CHANGELOG.md](CHANGELOG.md) for release history.
 
 ## Author
 
