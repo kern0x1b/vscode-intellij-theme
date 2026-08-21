@@ -88,7 +88,7 @@ Feel free to [open an issue](https://github.com/kern0x1b/vscode-intellij-theme/i
 
 ## License
 
-[MIT](LICENSE)
+[MIT](LICENSE.md)
 
 ---
 
